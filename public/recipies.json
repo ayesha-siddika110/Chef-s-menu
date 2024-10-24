@@ -1,0 +1,99 @@
+[
+    {
+      "title": "Grilled Chicken Caesar Salad",
+      "short_description": "A classic Caesar salad topped with grilled chicken breast and fresh Parmesan.",
+      "cover_image": "https://i.ibb.co.com/RcHmRmg/Grilled-Chicken-Caesar-Salad.jpg",
+      "cooking_time": 20,
+      "calories": 450,
+      "ingredients": {
+        "Chicken Breast": "200g",
+        "Romaine Lettuce": "100g",
+        "Parmesan Cheese": "50g",
+        "Caesar Dressing": "3 tbsp",
+        "Croutons": "50g",
+        "Olive Oil": "1 tbsp",
+        "Lemon Juice": "1 tbsp"
+      }
+    },
+    {
+      "title": "Margherita Pizza",
+      "short_description": "A simple pizza with tomato, fresh mozzarella, and basil.",
+      "cover_image": "https://i.ibb.co.com/Kznnkgg/Margherita-Pizza.jpg",
+      "cooking_time": 25,
+      "calories": 700,
+      "ingredients": {
+        "Pizza Dough": "1 ball",
+        "Tomato Sauce": "100g",
+        "Mozzarella Cheese": "150g",
+        "Basil Leaves": "10 leaves",
+        "Olive Oil": "2 tbsp",
+        "Garlic": "1 clove",
+        "Salt": "1 tsp"
+      }
+    },
+    {
+      "title": "Beef Burger with Fries",
+      "short_description": "Juicy beef patty served with crispy fries on the side.",
+      "cover_image": "https://i.ibb.co.com/drXCpsr/Beef-Burger-with-Fries.jpg",
+      "cooking_time": 30,
+      "calories": 850,
+      "ingredients": {
+        "Beef Patty": "200g",
+        "Burger Bun": "1 piece",
+        "Cheddar Cheese": "50g",
+        "Lettuce": "20g",
+        "Tomato": "30g",
+        "Pickles": "20g",
+        "Fries": "150g"
+      }
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "short_description": "Traditional Italian pasta dish with pancetta, eggs, and Parmesan.",
+      "cover_image": "https://i.ibb.co.com/ph6bt9T/Spaghetti-Carbonara.jpg",
+      "cooking_time": 15,
+      "calories": 600,
+      "ingredients": {
+        "Spaghetti": "200g",
+        "Pancetta": "100g",
+        "Egg Yolks": "2 pieces",
+        "Parmesan Cheese": "50g",
+        "Black Pepper": "1 tsp",
+        "Olive Oil": "1 tbsp",
+        "Garlic": "1 clove"
+      }
+    },
+    {
+      "title": "Chicken Tikka Masala",
+      "short_description": "Spiced and creamy chicken curry served with basmati rice.",
+      "cover_image": "https://i.ibb.co.com/drXCpsr/Beef-Burger-with-Fries.jpg",
+      "cooking_time": 40,
+      "calories": 650,
+      "ingredients": {
+        "Chicken Breast": "200g",
+        "Tikka Masala Sauce": "150g",
+        "Basmati Rice": "100g",
+        "Yogurt": "50g",
+        "Onions": "50g",
+        "Garlic": "2 cloves",
+        "Cilantro": "10g"
+      }
+    },
+    {
+      "title": "Vegan Buddha Bowl",
+      "short_description": "A healthy mix of quinoa, chickpeas, avocado, and fresh veggies.",
+      "cover_image": "https://i.ibb.co.com/7gWgtmx/Vegan-Buddha-Bowl.jpg",
+      "cooking_time": 25,
+      "calories": 500,
+      "ingredients": {
+        "Quinoa": "100g",
+        "Chickpeas": "100g",
+        "Avocado": "1 piece",
+        "Carrots": "50g",
+        "Cucumbers": "50g",
+        "Spinach": "50g",
+        "Tahini Sauce": "2 tbsp"
+      }
+    }
+  ]
+  
